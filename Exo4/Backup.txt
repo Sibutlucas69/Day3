@@ -1,0 +1,2 @@
+DATE=date(+%s)
+30 7 * * * tar -cvf backup$DATE.tar /home/apprenant/Images
